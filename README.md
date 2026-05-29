@@ -36,10 +36,10 @@ Telegram-бот для учёта товаров в кафе с интеграц
 ![История списаний](images/istoriya_spisaniy.jpeg)
 
 ### Google Sheets — лист "Расход"
-![Расход](images/расход%20г.т.jpeg)
+![Расход](images/rashod_gt.jpeg)
 
 ### Заказ в Google Sheets (пример)
-![Заказ GS](images/zakaz%20gs.jpeg)
+![Заказ GS](images/zakaz_gs.jpeg)
 
 ### Дополнительно — лог пополнений (другой вид)
 ![Лог пополнений 2](images/log_popolneniy_gt.jpeg)
