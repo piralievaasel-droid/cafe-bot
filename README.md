@@ -18,31 +18,31 @@ Telegram-бот для учёта товаров в кафе с интеграц
 ## Скриншоты работы
 
 ### Списание товара (Telegram)
-![Списание](screenshots/spisanie.jpeg)
+![Списание](images/spisanie.jpeg)
 
 ### Создание заказа на пополнение (Telegram)
-![Заказ в Telegram](screenshots/zakaz_tb.jpeg)
+![Заказ в Telegram](images/zakaz_tb.jpeg)
 
 ### Приёмка товара админом (Telegram)
-![Приёмка](screenshots/priemka_tb.jpeg)
+![Приёмка](images/priemka_tb.jpeg)
 
 ### Обновление остатков в Google Sheets
-![Остатки](screenshots/ostatki.jpeg)
+![Остатки](images/ostatki.jpeg)
 
 ### Лог пополнений в Google Sheets
-![Лог пополнений](screenshots/log_popolneniy.jpeg)
+![Лог пополнений](images/log_popolneniy.jpeg)
 
 ### История списаний сотрудника (Telegram)
-![История списаний](screenshots/istoriya_spisaniy.jpeg)
+![История списаний](images/istoriya_spisaniy.jpeg)
 
 ### Google Sheets — лист "Расход"
-![Расход](screenshots/расход%20г.т.jpeg)
+![Расход](images/расход%20г.т.jpeg)
 
 ### Заказ в Google Sheets (пример)
-![Заказ GS](screenshots/zakaz%20gs.jpeg)
+![Заказ GS](images/zakaz%20gs.jpeg)
 
 ### Дополнительно — лог пополнений (другой вид)
-![Лог пополнений 2](screenshots/log_popolneniy_gt.jpeg)
+![Лог пополнений 2](images/log_popolneniy_gt.jpeg)
 
 ## Как запустить (для разработчика)
 1. Клонируйте репозиторий
